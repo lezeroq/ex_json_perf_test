@@ -1,0 +1,4 @@
+%{"jiffy": {:git, "https://github.com/davisp/jiffy.git", "4c0bfbc0fa0de12dcc4ff263888eeaa431ae6ed2", [branch: "master"]},
+  "json": {:hex, :json, "0.3.3", "373eb4f7321f898ad6772999f30daf65f9f38e1d3dd4d798d7a82d3b123fe1d3", [:mix], []},
+  "math": {:hex, :math, "0.1.0", "5485fcb3c87d28af588ec8abb71dc12ee269147be776a522af0c7de3d6d55568", [:mix], []},
+  "poison": {:hex, :poison, "2.2.0", "4763b69a8a77bd77d26f477d196428b741261a761257ff1cf92753a0d4d24a63", [:mix], []}}
